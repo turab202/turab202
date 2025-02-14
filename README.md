@@ -6,7 +6,9 @@ A passionate Full Stack Developer, Graphic Designer, and Video Editor crafting d
 I'm a multi-talented creative professional with a passion for building innovative and visually stunning solutions. I thrive on challenges and enjoy bridging the gap between code, design, and captivating video content. Whether it's architecting a robust backend, designing a user-friendly interface, or creating engaging video narratives, I'm dedicated to delivering exceptional results.
 
 •  Full Stack Developer: I build scalable and efficient web applications using modern technologies. I love turning complex problems into elegant, user-friendly solutions.
+
 •  Graphic Designer: I create visually appealing and impactful designs that communicate effectively. I'm proficient in a variety of design tools and principles.
+
 •  Video Editor: I bring stories to life through compelling video editing, motion graphics, and visual effects.
 
 ▌✨ Skills
