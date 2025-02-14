@@ -60,6 +60,7 @@ Other:
 ▌🛠️ Projects
 
 Here are some of my featured projects. Check out my repositories for more!
+
 •   **Haza Restaurant:**
 
 [http://hazarestaurant.netlify.app]
@@ -80,13 +81,13 @@ A Tic-Tac-Toe game implemented with JavaScript, showcasing my ability to create 
 
 •   **Haza Color Picker:** 
 
-[haza-color-picker.netlify.app]
+[http://haza-color-picker.netlify.app]
 
 A simple yet useful color picker tool, developed to demonstrate front-end skills and an understanding of color palettes and user interface design.  Great for quick color code selection.
 
 •   **Haza To-Do List:** 
 
-[haza-to-do-list.netlify.app] 
+[http://haza-to-do-list.netlify.app] 
 
 A clean and functional to-do list application built with JavaScript, allowing users to manage their tasks effectively. A practical demonstration of my front-end development skills.
 
@@ -98,7 +99,7 @@ A stylish digital clock built with HTML, CSS, and JavaScript, showcasing my abil
 
 •   **Hazakids:** 
 
-[hazakids.netlify.app]
+[http://hazakids.netlify.app]
 
 A website containing videos for kids, demonstrating my video editing and web development skills.  This project showcases my ability to curate and present video content in an engaging and age-appropriate manner.
 
