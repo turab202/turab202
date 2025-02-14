@@ -61,38 +61,62 @@ Other:
 
 Here are some of my featured projects. Check out my repositories for more!
 •   **Haza Restaurant:**
+
 [http://hazarestaurant.netlify.app]
+
 A visually appealing and responsive website for a restaurant, showcasing my design and front-end development skills. Highlights include menu presentation, contact information, and a user-friendly interface.
+
 •   **Haza Snake Game:** 
+
 [http://haza-snake-game.netlify.app] 
+
 A classic snake game built with JavaScript, demonstrating my understanding of game development principles and browser-based interactivity.
+
 •   **Haza Tic-Tac-Toe Game:** 
+
 [http://haza-tic-tac-toe-game.netlify.app] 
+
 A Tic-Tac-Toe game implemented with JavaScript, showcasing my ability to create engaging and interactive web applications.
+
 •   **Haza Color Picker:** 
+
 [haza-color-picker.netlify.app]
+
 A simple yet useful color picker tool, developed to demonstrate front-end skills and an understanding of color palettes and user interface design.  Great for quick color code selection.
+
 •   **Haza To-Do List:** 
+
 [haza-to-do-list.netlify.app] 
+
 A clean and functional to-do list application built with JavaScript, allowing users to manage their tasks effectively. A practical demonstration of my front-end development skills.
+
 •   **Haza Digital Clock:**
+
 [https://haza-digital-clock.netlify.app/]
+
 A stylish digital clock built with HTML, CSS, and JavaScript, showcasing my ability to create visually appealing and interactive web elements.
+
 •   **Hazakids:** 
+
 [hazakids.netlify.app]
+
 A website containing videos for kids, demonstrating my video editing and web development skills.  This project showcases my ability to curate and present video content in an engaging and age-appropriate manner.
+
 
 ## 🤝 Let's Connect!
 
 I'm always open to collaborating on exciting projects and connecting with fellow creatives.
 
 •   [LinkedIn]
+
 (https://www.linkedin.com/in/zahra-mustefa-035196330 )
 
 •   [Portfolio Website]
-(https:zahra-mustefa.netlify.app)
+
+(https://zahra-mustefa.netlify.app)
 
 •   [Email]
+
 (mailto:turabturqb@gmail.com)
 
 ## 💡 Currently Learning
