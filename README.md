@@ -49,6 +49,11 @@ Tools:
 
 •  Capcut
 
+•  Adobe Premiere Pro 
+
+•  Adobe photoshop.
+
+
 Other:
 
 •  Git/GitHub
@@ -123,8 +128,6 @@ I'm always open to collaborating on exciting projects and connecting with fellow
 ## 💡 Currently Learning
 
 •   rebuilding amazon website to enhance my knowledge of backend
-
-•   learning Adobe Premiere Pro and Adobe photoshop.
 
 ---
 
