@@ -72,6 +72,12 @@ Here are some of my featured projects. Check out my repositories for more!
 
 A website containing videos for kids, demonstrating my video editing and web development skills.  This project showcases my ability to curate and present video content in an engaging and age-appropriate manner.
 
+•   **Tewekul Bakery:** 🍞🎂
+
+[https://tewekul-bakery.netlify.app]
+
+– A modern, responsive bakery website with an elegant design, interactive menu, and smooth animations.
+
 •   **Haza Snake Game:** 
 
 [http://haza-snake-game.netlify.app] 
@@ -83,19 +89,6 @@ A classic snake game built with JavaScript, demonstrating my understanding of ga
 [http://haza-color-picker.netlify.app]
 
 A simple yet useful color picker tool, developed to demonstrate react and front-end skills and an understanding of color palettes and user interface design.  Great for quick color code selection.
-
-•   **Haza To-Do List:** 
-
-[http://haza-to-do-list.netlify.app] 
-
-A clean and functional to-do list application built with JavaScript, allowing users to manage their tasks effectively. A practical demonstration of my front-end development skills.
-
-•   **Haza Digital Clock:**
-
-[https://haza-digital-clock.netlify.app/]
-
-A stylish digital clock built with HTML, CSS, and JavaScript, showcasing my ability to create visually appealing and interactive web elements.
-
 
 ## 🤝 Let's Connect!
 
