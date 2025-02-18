@@ -78,17 +78,11 @@ A website containing videos for kids, demonstrating my video editing and web dev
 
 A classic snake game built with JavaScript, demonstrating my understanding of game development principles and browser-based interactivity.
 
-•   **Haza Tic-Tac-Toe Game:** 
-
-[http://haza-tic-tac-toe-game.netlify.app] 
-
-A Tic-Tac-Toe game implemented with JavaScript, showcasing my ability to create engaging and interactive web applications.
-
 •   **Haza Color Picker:** 
 
 [http://haza-color-picker.netlify.app]
 
-A simple yet useful color picker tool, developed to demonstrate front-end skills and an understanding of color palettes and user interface design.  Great for quick color code selection.
+A simple yet useful color picker tool, developed to demonstrate react and front-end skills and an understanding of color palettes and user interface design.  Great for quick color code selection.
 
 •   **Haza To-Do List:** 
 
