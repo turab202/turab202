@@ -66,11 +66,11 @@ Other:
 
 Here are some of my featured projects. Check out my repositories for more!
 
-•   **Haza Restaurant:**
+•   **Hazakids:** 
 
-[http://hazarestaurant.netlify.app]
+[http://hazakids.netlify.app]
 
-A visually appealing and responsive website for a restaurant, showcasing my design and front-end development skills. Highlights include menu presentation, contact information, and a user-friendly interface.
+A website containing videos for kids, demonstrating my video editing and web development skills.  This project showcases my ability to curate and present video content in an engaging and age-appropriate manner.
 
 •   **Haza Snake Game:** 
 
@@ -102,12 +102,6 @@ A clean and functional to-do list application built with JavaScript, allowing us
 
 A stylish digital clock built with HTML, CSS, and JavaScript, showcasing my ability to create visually appealing and interactive web elements.
 
-•   **Hazakids:** 
-
-[http://hazakids.netlify.app]
-
-A website containing videos for kids, demonstrating my video editing and web development skills.  This project showcases my ability to curate and present video content in an engaging and age-appropriate manner.
-
 
 ## 🤝 Let's Connect!
 
@@ -125,9 +119,6 @@ I'm always open to collaborating on exciting projects and connecting with fellow
 
 (mailto:turabturqb@gmail.com)
 
-## 💡 Currently Learning
-
-•   rebuilding amazon website to enhance my knowledge of backend
 
 ---
 
