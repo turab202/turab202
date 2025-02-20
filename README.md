@@ -70,7 +70,7 @@ Here are some of my featured projects. Check out my repositories for more!
 
 [http://hazakids.netlify.app]
 
-A website containing videos for kids, demonstrating my video editing and web development skills.  This project showcases my ability to curate and present video content in an engaging and age-appropriate manner.
+This website features videos for kids, the project was inspired by Netflix's platform, showcasing my ability to curate and present video content in an engaging and age-appropriate manner. By implementing a user-friendly interface and seamless navigation, I ensured that the platform offers an enjoyable experience for young viewers while highlighting my technical expertise
 
 •   **Tewekul Bakery:** 🍞🎂
 
