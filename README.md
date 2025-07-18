@@ -9,16 +9,16 @@
 
 ## 🛠️ Technical Arsenal  
 ### **Languages**  
-`JavaScript/ES6+` `TypeScript` `Java` `C++` `HTML5` `CSS3/Sass`  
+`JavaScript/ES6+` `Java` `C++` `HTML5` `CSS3/Sass`  
 
 ### **Frameworks & Tools**  
-**Frontend**: React, Next.js, Redux  
-**Backend**: Node.js, Express, Spring Boot  
+**Frontend**: React, Next.js, Tailwind  
+**Backend**: Node.js, Express
 **Databases**: MongoDB, MySQL, Firebase  
 **Design/Video**: Adobe Creative Suite (Premiere Pro, Photoshop), Figma, Blender  
 
 ### **DevOps & Workflow**  
-`Git/GitHub` `CI/CD` `Docker` `Jest` `Webpack`  
+`Git/GitHub` 
 
 ## 🔥 Highlighted Projects  
 | Project | Stack | Highlights |  
